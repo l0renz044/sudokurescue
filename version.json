@@ -1,6 +1,6 @@
 {
-  "version": "0.0.6",
+  "version": "0.0.7",
   "apk": "SudokuRescue_latest.apk",
-  "notes_fr": "Nouveau nom : Sudoku Rescue.",
-  "notes_en": "New name: Sudoku Rescue."
+  "notes_fr": "Identifiants AdMob renseignés (pubs encore en mode test).",
+  "notes_en": "AdMob IDs set (ads still in test mode)."
 }
