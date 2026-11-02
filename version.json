@@ -1,6 +1,6 @@
 {
-  "version": "0.0.4",
+  "version": "0.0.5",
   "apk": "SudokuRescue_latest.apk",
-  "notes_fr": "Aide : la valeur proposée tient maintenant compte de tous les chiffres posés.",
-  "notes_en": "Hint: the proposed value now takes all placed digits into account."
+  "notes_fr": "Appui long sur un bouton : info-bulle. Aide corrigée.",
+  "notes_en": "Long-press a button for a tooltip. Hint fixed."
 }
