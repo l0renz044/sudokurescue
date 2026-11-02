@@ -1,6 +1,6 @@
 {
-  "version": "0.0.9",
+  "version": "0.0.10",
   "apk": "SudokuRescue_latest.apk",
-  "notes_fr": "Interstitiel après chaque grille terminée.",
-  "notes_en": "Interstitial after every finished grid."
+  "notes_fr": "Solution : vidéo à chaque fois ; diagnostic des pubs.",
+  "notes_en": "Solution: video every time; ads diagnostics."
 }
