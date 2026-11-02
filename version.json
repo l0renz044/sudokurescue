@@ -1,6 +1,6 @@
 {
-  "version": "0.0.5",
+  "version": "0.0.6",
   "apk": "SudokuRescue_latest.apk",
-  "notes_fr": "Appui long sur un bouton : info-bulle. Aide corrigée.",
-  "notes_en": "Long-press a button for a tooltip. Hint fixed."
+  "notes_fr": "Nouveau nom : Sudoku Rescue.",
+  "notes_en": "New name: Sudoku Rescue."
 }
