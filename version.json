@@ -1,6 +1,6 @@
 {
-  "version": "0.0.7",
+  "version": "0.0.9",
   "apk": "SudokuRescue_latest.apk",
-  "notes_fr": "Identifiants AdMob renseignés (pubs encore en mode test).",
-  "notes_en": "AdMob IDs set (ads still in test mode)."
+  "notes_fr": "Interstitiel après chaque grille terminée.",
+  "notes_en": "Interstitial after every finished grid."
 }
