@@ -1,6 +1,6 @@
 {
-  "version": "0.0.10",
+  "version": "0.0.11",
   "apk": "SudokuRescue_latest.apk",
-  "notes_fr": "Solution : vidéo à chaque fois ; diagnostic des pubs.",
-  "notes_en": "Solution: video every time; ads diagnostics."
+  "notes_fr": "Compteur d erreurs.",
+  "notes_en": "Mistake counter."
 }
